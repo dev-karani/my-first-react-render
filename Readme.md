@@ -15,4 +15,4 @@ I:
 
 ## 📚 Learn More
 
-Check out the full write-up: [link to your blog or Notion page if you write one]
+Check out the full write-up: [https://dev-karani.github.io/website/]
